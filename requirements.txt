@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-influxdb-client
-tushare
-scikit-learn
