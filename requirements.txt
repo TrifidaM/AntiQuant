@@ -1,5 +1,7 @@
 streamlit
 pandas
 numpy
-plotly
-google-generativeai
+matplotlib
+influxdb-client
+tushare
+scikit-learn
